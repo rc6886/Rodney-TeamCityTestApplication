@@ -11,10 +11,10 @@ using System.Runtime.InteropServices;
 //------------------------------------------------------------------------------
 
 [assembly: ComVisibleAttribute(false)]
-[assembly: AssemblyVersionAttribute("2015.12.10.1312")]
-[assembly: AssemblyFileVersionAttribute("2015.12.10.1312")]
+[assembly: AssemblyVersionAttribute("2015.12.10.1446")]
+[assembly: AssemblyFileVersionAttribute("2015.12.10.1446")]
 [assembly: AssemblyCopyrightAttribute("Copyright 2015")]
 [assembly: AssemblyProductAttribute("Rodney-TeamCityTestApplication")]
 [assembly: AssemblyCompanyAttribute("")]
 [assembly: AssemblyConfigurationAttribute("release")]
-[assembly: AssemblyInformationalVersionAttribute("2015.12.10.1312")]
+[assembly: AssemblyInformationalVersionAttribute("2015.12.10.1446")]
